@@ -21,6 +21,7 @@ private slots:
 
 private:
     QString currentArchivePath;
+    QString new_archive_path;
     QTreeView* tree;
     QStandardItemModel* model;
 };
